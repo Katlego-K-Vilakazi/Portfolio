@@ -1,1 +1,23 @@
+# Project 01 — Microsoft 365 Tenant Setup
+
+## Objective
+Set up a Microsoft 365 developer tenant, create users, groups, and apply licenses.  
+This lab demonstrates basic tenant administration and cloud account management.
+
+## Steps Completed
+1. Created Microsoft 365 developer tenant.
+2. Configured 3 user accounts.
+3. Created a security group and added users.
+4. Assigned Microsoft 365 licenses.
+5. Configured Exchange Online mailbox settings.
+6. Documented process with screenshots.
+
+## Tools Used
+- Microsoft 365 Admin Center
+- PowerShell (Connect-MsolService, New-MsolUser, Set-MsolUserLicense)
+- Microsoft 365 Developer Account
+
+## Notes
+- All usernames are test accounts.  
+- Screenshots stored in the `screenshots` folder.
 
