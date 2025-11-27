@@ -11,10 +11,9 @@ Establish a secure VPN tunnel to the BYU–Pathway TechLab environment using Glo
 
 ## 📌 Required Evidence
 Upload in this folder:
-- Screenshot of **Network Adapters**<img width="1366" height="612" alt="image" src="https://github.com/user-attachments/assets/3924d279-de49-45be-bbf4-ef037a4f2a4b" />
+- Screenshot of **Network Adapters**
 
-- Screenshot of **ipconfig** showing VPN adapter![IPconfig](https://github.com/user-attachments/assets/ae013036-d4c4-4942-b189-2d93704adfc6)
-
+- Screenshot of **ipconfig** showing VPN adapter!
 
 ## 📝 Summary
 This project demonstrates the ability to connect to a remote lab environment using a VPN client.  
