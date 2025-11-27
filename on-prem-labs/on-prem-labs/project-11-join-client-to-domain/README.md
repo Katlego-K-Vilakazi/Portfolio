@@ -30,3 +30,18 @@ The *Joining a Client to Server 2022* worksheet was completed and saved as:
 - Configured the Desktop Wallpaper setting.
 - Forced Group Policy update on client:  
 
+- Verified the wallpaper appeared on Windows 11.
+- **Screenshot saved as `domain-wallpaper-applied.png`.**
+
+### 6. Project Cleanup
+- Disabled the Wallpaper GPO on the Domain Controller.
+- Deleted the shared wallpaper folder to reset the environment.
+
+## 📸 Screenshots Included
+| File Name | Description |
+|----------|-------------|
+| `domain-membership.png` | Proof Windows 11 is joined to the domain |
+| `wallpaper-image.png` | Wallpaper image that was used for GPO |
+| `domain-wallpaper-applied.png` | Wallpaper successfully applied via GPO |
+| `VilakaziK M3 Client to Domain.docx` | Completed worksheet |
+
