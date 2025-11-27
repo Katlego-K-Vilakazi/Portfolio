@@ -1,6 +1,5 @@
 # Project 01: M365 Tenant Setup Simulation
 
-**Student:** Katlego Kingsley Vilakazi  
 **Platform:** Azure VM (Windows Server 2022)  
 **Simulation of:** Microsoft 365 Tenant using Active Directory
 
