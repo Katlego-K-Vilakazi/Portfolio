@@ -19,5 +19,5 @@ This project simulates the setup of a Microsoft 365 tenant using an Azure virtua
 ## Media
 A screen recording demonstrating the setup and configuration is provided below:
 
-[AD Simulation Screen Recording](./Media/AD-Simulation.mp4)
+[AD Simulation Screen Recording](https://drive.google.com/file/d/1hTr-iFHeEmhUq_8z7SldJI-Qh4BtJiqi/view?usp=sharing)
 
