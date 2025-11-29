@@ -17,14 +17,7 @@ Showing the exact UI where enrollment is normally performed
 
 All screenshots are captured from my Azure-hosted Windows VM.
 
-📁 Project Structure
-Project-02-Intune-Enrollment/
-│
-├── README.md
-└── screenshots/
-      ├── access-work-school.png
-      ├── connect-dialog.png
-      ├── enrollment-info.png
+
 
 🖥️ Step-by-Step Simulation Walkthrough
 1. Open Enrollment Settings
