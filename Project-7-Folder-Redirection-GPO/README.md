@@ -1,4 +1,4 @@
-Project 13 — Implement Folder Redirection with Group Policy
+Project 7 — Implement Folder Redirection with Group Policy
 Category: Windows Server / Active Directory
 Subcategory: Group Policy — Folder Redirection
 📌 Overview
@@ -202,7 +202,7 @@ Remote work environments
 Managed service provider (MSP) environments
 
 📁 Repository Structure
-Project-13-Folder-Redirection-GPO/
+Project-7-Folder-Redirection-GPO/
 │
 ├── README.md
 └── screenshots/
