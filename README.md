@@ -1,72 +1,61 @@
-# Katlego Vilakazi
+Katlego Vilakazi – IT System & Endpoint Administration Portfolio
 
-**Junior Cloud & Systems Administrator | Windows Server | Azure | Intune | MD-102 & AZ-104 in progress**
+👋 Introduction
 
----
+Welcome to my professional IT portfolio! My name is Katlego (Kingsley) Vilakazi, and I am a Junior Cloud & Systems Administrator specializing in Microsoft 365, Intune, and Windows endpoint management. This repository demonstrates my hands-on skills in endpoint administration, Group Policy, device compliance, and troubleshooting, aligned with the Microsoft MD-102: Endpoint Administrator certification.
 
-## About Me
+I create and document real-world labs and projects that show practical problem-solving and IT management skills—skills I am actively applying in professional settings.
 
-I am an IT Support Specialist with 3–4 years of experience in system administration, endpoint management, and troubleshooting.  
-Currently pursuing a **Bachelor of Applied Science in IT System Administration**, while preparing for **MD-102** and **AZ-104** certifications.
+LinkedIn: www.linkedin.com/in/katlego-k-vilakazi
 
-I specialize in:
-- Windows Server Administration (AD DS, GPO, DHCP/DNS)
-- Microsoft 365 Administration & Intune
-- Azure Virtual Machines, Storage, and Networking
-- Endpoint Management and Security Hardening
-- Automation with PowerShell
-- Networking Troubleshooting and Subnetting
+GitHub: https://github.com/Katlego-K-Vilakazi/Portfolio
 
-I build **hands-on labs** to demonstrate practical skills and problem-solving ability.  
-This repository serves as my portfolio to showcase my projects, scripts, and technical achievements.
+📂 Table of Contents
+MD-102 / Endpoint Administration (Primary Focus)
 
----
+Intune Enrollment – Enroll Windows 10/11 devices into Microsoft Intune.
 
-## Skills & Tools
+Device Compliance Policies – Configure and enforce endpoint compliance rules.
 
-- **Operating Systems:** Windows Server 2016/2019, Windows 10/11
-- **Cloud:** Azure (VMs, Storage, Networking), Microsoft 365
-- **Administration:** Active Directory, Intune, Group Policy, Endpoint Security
-- **Scripting & Automation:** PowerShell
-- **Networking:** Subnetting, Routing, Firewalls, Troubleshooting
-- **Other Tools:** Hyper-V, VirtualBox, Remote Desktop, Ticketing systems
+Configuration Profiles – Deploy Wi-Fi, BitLocker, and other device configuration settings.
 
----
+Windows Autopilot – Demonstrate automated device provisioning and management.
 
-## Portfolio Projects
+Folder Redirection with GPO – Redirect user folders for centralized access.
 
-### 1. Microsoft 365 Tenant Setup
-- Created a developer tenant, configured users and groups, applied licenses.
-- Setup Exchange mailboxes, distribution lists, and MFA policies.
-- [Link to project folder](/Project-01-M365-Tenant-Setup)
+Troubleshooting Scenarios – Solve real-world IT issues using Microsoft 365 and Intune tools.
 
-### 2. Intune Device Enrollment & Policy
-- Enrolled Windows devices into Intune.
-- Configured Wi-Fi profiles and BitLocker policies.
-- [Link to project folder](/Project-02-Intune-Enrollment)
+Azure & Cloud Projects (Supporting / Reference)
 
-### 3. Windows Server Lab: AD DS & GPO
-- Deployed Active Directory domain with OUs, users, and groups.
-- Implemented Group Policy Objects for password and mapped drives.
-- [Link to project folder](/Project-03-AD-GPO-Lab)
+Azure Virtual Machine Deployment
 
-### 4. Azure VM Deployment & Network Security
-- Deployed Azure Virtual Machines with NSGs, storage, and backup policies.
-- Configured networking, security rules, and access controls.
-- [Link to project folder](/Project-04-Azure-VM-Lab)
+Azure Networking & Storage
 
-### 5. Troubleshooting Scenarios
-- Documented step-by-step resolution for networking errors like “Destination Host Unreachable”.
-- Includes screenshots, commands, and troubleshooting workflow.
-- [Link to project folder](/Project-05-Troubleshooting)
+Role-Based Access Control (RBAC) in Azure
 
----
+On-Prem / Windows Server Labs (Supporting / Reference)
 
-## Contact
+Active Directory & Organizational Units
 
-- **Email:** katlegokingsleyvilakazi@gmail.com  
-- **LinkedIn:** [linkedin.com/in/katlego-vilakazi-31722b228](https://www.linkedin.com/in/katlego-vilakazi-31722b228)
+Security Groups & Permissions
 
----
+Group Policy Management
+
+Scripts
+
+PowerShell automation scripts for Intune, GPO, and AD tasks.
+
+⚡ How to Navigate
+
+Each project folder contains a README.md explaining the lab objectives, scenario, step-by-step instructions, and results.
+
+Screenshots and visual references are included in the /Screenshots subfolders where applicable.
+
+Any scripts or automation files are stored in /Scripts or the project-specific /Scripts subfolder.
+
+Projects are structured to demonstrate practical skills in endpoint administration, policy enforcement, and troubleshooting, aligned with the MD-102 certification objectives.
+
+Feel free to explore, replicate, and learn from the labs. This portfolio is a reflection of my hands-on experience and commitment to professional growth in IT system and endpoint administration.
+
 
 *This GitHub portfolio is a living repository. New projects and scripts will be added as I continue to develop my cloud, systems, and IT support skills.*
