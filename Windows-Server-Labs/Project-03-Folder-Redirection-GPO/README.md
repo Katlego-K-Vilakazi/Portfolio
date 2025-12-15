@@ -1,4 +1,4 @@
-Project 07 — Implement Folder Redirection with Group Policy
+Project 03 — Implement Folder Redirection with Group Policy
 Category: Windows Server / Active Directory
 Subcategory: Group Policy — Folder Redirection
 📌 Overview
