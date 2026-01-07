@@ -2,7 +2,7 @@ Katlego Vilakazi – IT System & Endpoint Administration Portfolio
 
 👋 Introduction
 
-Welcome to my professional IT portfolio! My name is Katlego (Kingsley) Vilakazi, and I am a Junior Cloud & Systems Administrator specializing in Microsoft 365, Intune, and Windows endpoint management. This repository demonstrates my hands-on skills in endpoint administration, Group Policy, device compliance, and troubleshooting, aligned with the Microsoft MD-102: Endpoint Administrator certification.
+Welcome to my professional IT portfolio! My name is Katlego (Kingsley) Vilakazi, and I am a Junior Systems Administrator specializing in Microsoft 365, Intune, and Windows endpoint management. This repository demonstrates my hands-on skills in endpoint administration, Group Policy, device compliance, and troubleshooting, aligned with the Microsoft MD-102: Endpoint Administrator certification.
 
 I create and document real-world labs and projects that show practical problem-solving and IT management skills—skills I am actively applying in professional settings.
 
@@ -44,6 +44,7 @@ Group Policy Management
 Scripts
 
 PowerShell automation scripts for Intune, GPO, and AD tasks.
+Python Fundamentals.
 
 ⚡ How to Navigate
 
