@@ -43,7 +43,7 @@ This project was divided into four sections:
 
 | Component | Used |
 |---|---|
-| Cloud platform | AWS Academy |
+| Cloud platform | AWS |
 | Virtualization | Amazon EC2 |
 | Operating system | Ubuntu Linux |
 | Remote access | SSH |
