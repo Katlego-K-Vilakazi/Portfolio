@@ -1,5 +1,7 @@
 # Linux 2.3 — Install and Configure
 
+# Link to video: https://youtu.be/BUFDd46zQc4
+
 A hands-on Linux system administration project completed as part of my BYU-Pathway Worldwide IT coursework.
 
 The project focused on provisioning an Ubuntu Linux virtual server in AWS, connecting to it with SSH, working with the Linux filesystem, managing permissions and ownership, and practicing output redirection, pipes, and process inspection.
@@ -12,23 +14,23 @@ The project focused on provisioning an Ubuntu Linux virtual server in AWS, conne
 
 This project was divided into four sections:
 
-- **Project 2.3.1 — Create an Ubuntu EC2 Server**
+- **Create an Ubuntu EC2 Server**
   - Create an Ubuntu EC2 virtual machine in AWS Academy.
   - Connect to the server using SSH.
 
-- **Project 2.3.2 — Basic Linux Commands**
+- **Basic Linux Commands**
   - Log in to a Linux server through SSH.
   - Create and remove files and directories.
   - List directory contents.
   - Display shell aliases.
 
-- **Project 2.3.3 — Filesystem Navigation, sudo, and Ownership**
+- **Filesystem Navigation, sudo, and Ownership**
   - Navigate the Linux filesystem.
   - Understand and use `sudo`.
   - Create a directory at the root of the filesystem.
   - View and change directory ownership.
 
-- **Project 2.3.4 — Redirects, Pipes, grep, and Processes**
+- **Redirects, Pipes, grep, and Processes**
   - Use output redirection.
   - Append command output to a file.
   - Use pipes and `grep`.
@@ -47,11 +49,11 @@ This project was divided into four sections:
 | Remote access | SSH |
 | Shell | Bash |
 | Primary account | Ubuntu user account |
-| Coursework | BYU-Pathway Worldwide |
+
 
 ---
 
-# Project 2.3.1 — Ubuntu EC2 Server
+# Ubuntu EC2 Server
 
 ## Objective
 
