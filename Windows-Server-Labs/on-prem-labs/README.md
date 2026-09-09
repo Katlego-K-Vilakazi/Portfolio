@@ -1,6 +1,6 @@
 # On-Premise Labs Portfolio
 
-This folder contains all hands-on labs completed during the BYU–Pathway IT program.  
+This folder contains all hands-on labs. 
 Each lab demonstrates practical skills in virtualization, Windows Server, Active Directory, networking, and systems administration.
 
 Each project includes:
