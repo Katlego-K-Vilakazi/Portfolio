@@ -2,8 +2,6 @@
 
 # Link to video: https://youtu.be/BUFDd46zQc4
 
-A hands-on Linux system administration project completed as part of my BYU-Pathway Worldwide IT coursework.
-
 The project focused on provisioning an Ubuntu Linux virtual server in AWS, connecting to it with SSH, working with the Linux filesystem, managing permissions and ownership, and practicing output redirection, pipes, and process inspection.
 
 > **Note:** This repository intentionally does not contain AWS private keys, passwords, access tokens, public IP addresses, or other credentials.
