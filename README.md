@@ -1,62 +1,63 @@
-Katlego Vilakazi – IT System & Endpoint Administration Portfolio
+Katlego Vilakazi | IT Infrastructure & Systems Administration
+IT infrastructure and technical support professional with production experience in Tier 2 Network Operations Centre (NOC) support and practical project work across networking, Linux, Windows Server, cloud environments, cybersecurity fundamentals, and automation.
 
-👋 Introduction
+This portfolio brings together operational experience, academic work, and independently documented labs. Production responsibilities are identified separately from learning projects so that the scope of each is clear.
+- LinkedIn: https://www.linkedin.com/in/katlego-k-vilakazi
+- GitHub: https://github.com/Katlego-K-Vilakazi
+Professional focus
+- Network operations and infrastructure: service monitoring, connectivity troubleshooting, fault isolation, routing, switching, VLANs, DHCP, DNS, and network analysis.
+- Systems administration: Linux and Windows Server fundamentals, identity and access management, permissions, services, configuration, and troubleshooting.
+- Cloud and virtualisation: introductory cloud infrastructure, AWS-based labs, virtual machines, and storage.
+- Cybersecurity fundamentals: packet inspection, protocol analysis, network traffic investigation, and security concepts.
+- Scripting and automation: PowerShell and Python fundamentals, including a small API and database project.
+Professional experience
+Tier 2 NOC Engineer — Axio Connect
+March 2026 – Present
 
-Welcome to my professional IT portfolio! My name is Katlego (Kingsley) Vilakazi, and I am a Junior Systems Administrator specializing in Microsoft 365, Intune, and Windows endpoint management. This repository demonstrates my hands-on skills in endpoint administration, Group Policy, device compliance, and troubleshooting, aligned with the Microsoft MD-102: Endpoint Administrator certification.
+Working in an ISP and connectivity-support environment, handling network and service incidents, investigating reported faults, troubleshooting connectivity, supporting service restoration, and escalating issues when required. The role involves working with network-management and monitoring platforms and documenting ticket activity.
 
-I create and document real-world labs and projects that show practical problem-solving and IT management skills—skills I am actively applying in professional settings.
-
-LinkedIn: www.linkedin.com/in/katlego-k-vilakazi
-
-GitHub: https://github.com/Katlego-K-Vilakazi/Portfolio
-
-📂 Table of Contents
-MD-102 / Endpoint Administration (Primary Focus)
-
-Intune Enrollment – Enroll Windows 10/11 devices into Microsoft Intune.
-
-Device Compliance Policies – Configure and enforce endpoint compliance rules.
-
-Configuration Profiles – Deploy Wi-Fi, BitLocker, and other device configuration settings.
-
-Windows Autopilot – Demonstrate automated device provisioning and management.
-
-Folder Redirection with GPO – Redirect user folders for centralized access.
-
-Troubleshooting Scenarios – Solve real-world IT issues using Microsoft 365 and Intune tools.
-
-Azure & Cloud Projects (Supporting / Reference)
-
-Azure Virtual Machine Deployment
-
-Azure Networking & Storage
-
-Role-Based Access Control (RBAC) in Azure
-
-On-Prem / Windows Server Labs (Supporting / Reference)
-
-Active Directory & Organizational Units
-
-Security Groups & Permissions
-
-Group Policy Management
-
-Scripts
-
-PowerShell automation scripts for Intune, GPO, and AD tasks.
-Python Fundamentals.
-
-⚡ How to Navigate
-
-Each project folder contains a README.md explaining the lab objectives, scenario, step-by-step instructions, and results.
-
-Screenshots and visual references are included in the /Screenshots subfolders where applicable.
-
-Any scripts or automation files are stored in /Scripts or the project-specific /Scripts subfolder.
-
-Projects are structured to demonstrate practical skills in endpoint administration, policy enforcement, and troubleshooting, aligned with the MD-102 certification objectives.
-
-Feel free to explore, replicate, and learn from the labs. This portfolio is a reflection of my hands-on experience and commitment to professional growth in IT system and endpoint administration.
-
-
-*This GitHub portfolio is a living repository. New projects and scripts will be added as I continue to develop my cloud, systems, and IT support skills.*
+This section describes professional operational experience. The project sections below represent academic, lab, and portfolio work.
+Portfolio projects
+Networking
+Practical networking exercises covering switching, routing, segmentation, services, and troubleshooting.
+- [Cisco VLANs, Trunking, VTP, and Spanning Tree](Networking/Cisco%20VLANs%2C%20Trunking%2C%20VTP%2C%20and%20Spanning%20Tree/)
+- [Configuring InterVLAN Routing](Networking/Configuring%20InterVLAN%20Routing/)
+- [Creating and Applying an ACL](Networking/Creating%20and%20Applying%20an%20ACL/)
+- [DHCP, DNS, and Switch Configuration](Networking/DHCP%2C%20DNS%2C%20and%20Switch%20Configuration/)
+- [Dynamic Routing — EIGRP, OSPF & Route Redistribution](Networking/Dynamic%20Routing%20-%20EIGRP%2C%20OSPF%20%26%20Route%20Redistribution/)
+- [Final Lab Practical](Networking/Final%20Lab%20Practical/)
+- [Networking Capstone Project](Networking/Networking%20Capstone%20Project/)
+- [Password Recovery and Base Configuration](Networking/Password%20Recovery%20and%20Base%20Configuration/)
+- [Static Routing and Switch VLAN 1 Configuration](Networking/Static%20Routing%20and%20Switch%20VLAN%201%20Configuration/)
+Linux
+Linux administration exercises covering the Ubuntu environment, users and groups, permissions, troubleshooting, and an AWS EC2-based server project.
+- [Explore Ubuntu Environment](Linux/Fundamentals/Explore%20Ubuntu%20Environment/)
+- [Install and Configure a Linux EC2 Instance](Linux/Fundamentals/Install%20and%20Configure%20a%20Linux%20EC2%20instance/)
+- [PromisedLand Project](Linux/Fundamentals/PromisedLand%20Project/)
+- [Linux Troubleshooting](Linux/Fundamentals/Troubleshooting/)
+- [Users and Groups](Linux/Fundamentals/Users%20and%20Groups/)
+Cybersecurity Foundations
+Wireshark-based labs focused on inspecting network traffic and interpreting packet-level evidence.
+- [Wireshark TIPS Lab](Cybersecurity%20Foundations/Wireshark%20TIPS%20Lab/)
+- [Wireshark — Who Got Infected?](Cybersecurity%20Foundations/Wireshark%20Who-got-infected/)
+- [Wireshark — Who Is on Your Network?](Cybersecurity%20Foundations/Wireshark%20Who-is-on-your-network/)
+Windows Server and systems administration
+Directory services, Group Policy, folder redirection, and supporting on-premises administration labs.
+- [Final Enterprise AD Deployment](Windows-Server-Labs/Project-01-Final-Enterprise-AD-Deployment/)
+- [Active Directory and GPO Lab](Windows-Server-Labs/Project-02-AD-GPO-Lab/)
+- [Folder Redirection with GPO](Windows-Server-Labs/Project-03-Folder-Redirection-GPO/)
+- [On-Premises Labs](Windows-Server-Labs/on-prem-labs/)
+Scripting and development
+- [PowerShell](Scripts/Powershell/)
+- [Python User Management API — Flask, SQLite & Testing](Scripts/Python/User%20Management%20API%20%28Flask%20%2B%20SQLite%20%2B%20Testing%29/)
+How projects are documented
+Where applicable, project documentation includes:
+- The objective or scenario being addressed.
+- The lab environment and tools used.
+- The configuration or investigation process.
+- Validation steps and observed results.
+- Screenshots or other supporting evidence.
+- Limitations, troubleshooting notes, and lessons learned.
+The projects are presented as learning and portfolio work unless explicitly identified as professional experience. Some exercises use simulated environments and do not represent production deployments.
+Education and ongoing development
+I am studying toward a Bachelor of Applied Science in Information Technology — System Administration. I continue to build practical skills through coursework, hands-on labs, technical documentation, and my day-to-day NOC responsibilities.
